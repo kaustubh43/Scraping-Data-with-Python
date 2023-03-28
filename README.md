@@ -1,6 +1,6 @@
 # Scraping-Data-with-Python
 ### Hacker News Scraper
-We will be using beautiful soups
+We will be using [Beautiful soups](https://beautiful-soup-4.readthedocs.io/en/latest/) for scraping the data
 
 
 <p align="center">
