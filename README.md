@@ -8,4 +8,10 @@ We will be using [Beautiful soups](https://beautiful-soup-4.readthedocs.io/en/la
 </p>
 
 > Installation
-> >1. Install requirements using ``` pip install -r requirements.txt```
+> >1. Change directory to the cloned folder using ```cd Scraping-Data-with-Python/```
+> >2. Install requirements using ``` pip install -r requirements.txt```
+> >3. Run the script using python 
+
+## GIF demo
+
+![This is a alt text.](/src/scraping.gif "This is a sample image.")
