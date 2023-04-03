@@ -21,4 +21,4 @@ For data scraping, we'll be utilising [Beautiful Soups](https://beautiful-soup-4
 
 ## GIF demo
 
-![This is a alt text.](/src/scraping.gif "This is a sample image.")
+![GifDemo.](/images/scraping.gif "This is the project demo")
