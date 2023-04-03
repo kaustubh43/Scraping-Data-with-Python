@@ -36,7 +36,7 @@ links, subtext = [], []
 
 # Getting all links and subtext in one place and appending to lists
 for i in range(n):
-    temp = create_link_subtext(HOME_PAGE + 'i+1')
+    temp = create_link_subtext(HOME_PAGE + str(i+1))
     links += temp[0]
     subtext += temp[1]
 
