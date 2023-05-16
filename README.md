@@ -9,9 +9,19 @@ For data scraping, we'll be utilising [Beautiful Soups](https://beautiful-soup-4
   <img src="https://beautiful-soup-4.readthedocs.io/en/latest/_images/6.1.jpg" width="200" height="200" />
 </p>
 
-> Installation
-> >1. Change directory to the cloned folder using ```cd Scraping-Data-with-Python/```
-> >2. Install requirements using ``` pip install -r requirements.txt```
+> #### Setting up the Virtual Environment for Non-Nerds
+>> run `setup.bat`
+
+> ### Running the script for Non-Nerds
+>> 
+
+> #### Setting up the Virtual Environment
+>> `python -m venv venv`
+>> `venv\Scripts\activate`
+>> `pip install -r requirements.txt`
+
+> #### Running the script
+>> `python scrape.py`
 
 > Using the script
 > >1. Run the command ```python scrape.py```
